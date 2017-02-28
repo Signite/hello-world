@@ -1,2 +1,5 @@
 # hello-world
-First my bad english repository
+Hi peoples.
+
+My name is Stas. I from Russia. My english is bad ((
+
